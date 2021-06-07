@@ -17,7 +17,7 @@ button.addEventListener('click', function () {
 
 function myBox() {
   let el = document.createElement('div')
-  el.style.backgroundImage = 'url(images/11.png)'
+  el.style.backgroundImage = 'url(11.png)'
   el.style.backgroundRepeat = 'no-repeat'
   el.style.backgroundPosition = 'center'
   el.style.backgroundSize = 'cover'
